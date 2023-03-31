@@ -1,1 +1,5 @@
-#WRITE YOUR CODE IN THIS FILE
+def howLong(w):
+    return int(len(w))
+print(howLong("cow"))
+
+
